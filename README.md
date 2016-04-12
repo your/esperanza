@@ -6,7 +6,7 @@ Go beyond, man.
 
 What matters the most is the way you talk and you move.
 
-The words are important? Sure. **Important != Most important**.
+Words are important? Sure. **Important != Most important**.
 
 ### Not convinced yet?
 
@@ -15,6 +15,10 @@ Chill out, and ask for `Esperanza.help?`
 ## Contributing
 
 Rules are required to make Esperenza say hopeful things, for now it's just lazy and will say things innapropriate (sorry for that). So.. help!
+
+## Use with caution
+
+This gem is hitting wikipedia/tionary pages. It's not meant to do that every .5 seconds, so.. you know what you are doing. Be polite.
 
 ## License: MIT
 
