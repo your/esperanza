@@ -12,6 +12,9 @@ Words are important? Sure. **Important != Most important**.
 
 Chill out, and ask for `Esperanza.help?`
 
+Live demo here: https://ask-esperanza.herokuapp.com/
+(Rails code: https://github.com/your/ask-esperanza)
+
 ## Contributing
 
 Rules are required to make Esperenza say hopeful things, for now it's just lazy and will say things innapropriate (sorry for that). So.. help!
