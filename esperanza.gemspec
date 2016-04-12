@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["g.lobraico@gmail.com"]
 
   spec.summary       = "Esperanza, because words do not really matter sometimes."
-  spec.description   = "Esperanza is the last resort for every day human language misunderstandings."
+  spec.description   = "Esperanza is the last resort for everyday human language misunderstandings."
   spec.homepage      = "http://github.com/your/esperanza"
   spec.license       = "MIT"
 

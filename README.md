@@ -1,6 +1,6 @@
 # Esperanza ☀
 
-### The last resort for every day human language misunderstandings.
+### The last resort for everyday human language misunderstandings.
 
 Go beyond, man.
 
